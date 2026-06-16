@@ -8,10 +8,10 @@ An agile **Full Stack Developer** and **CRM Systems Architect** dedicated to con
 
 | Layer | Technologies & Ecosystem Tools |
 | :--- | :--- |
-| **Frontend Execution** | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript) |
-| **Backend & Architecture** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb) |
+| **Frontend Execution** | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript) |
+| **Backend & Architecture** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
 | **AI Automation & Pipes** | ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n) ![Meta API](https://img.shields.io/badge/Meta_API-044AF4?style=flat-square&logo=meta) ![Webhooks](https://img.shields.io/badge/Webhooks-🧠-darkgreen?style=flat-square) |
-| **AI Assisted Dev Tools** | ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square) ![GitHub Copilot](https://img.shields.io/badge/Copilot-8E44AD?style=flat-square&logo=githubcopilot) |
+| **AI Assisted Dev Tools** | ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square) ![GitHub Copilot](https://img.shields.io/badge/Copilot-8E44AD?style=flat-square&logo=githubcopilot) ![Claude OpenCode](https://img.shields.io/badge/Claude_OpenCode-D97706?style=flat-square&logo=anthropic) |
 
 ---
 
@@ -37,5 +37,5 @@ An agile **Full Stack Developer** and **CRM Systems Architect** dedicated to con
 ---
 
 ### 🤝 Let's Connect & Collaborate
-- 💼 **Professional Network:** [LinkedIn](https://www.linkedin.com/) *(Add your custom URL)*
+- 💼 **Professional Network:** [LinkedIn](https://www.linkedin.com/in/abdullah-7a90632b8/) 
 - ✉️ **Secure Business Mail:** hello@abdullahsystems.com
