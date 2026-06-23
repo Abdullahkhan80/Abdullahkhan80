@@ -48,6 +48,10 @@ I am a Full Stack Developer passionate about building scalable web applications,
 
 AI-powered SaaS platform for image generation featuring modern authentication, cloud storage, subscription workflows, and scalable backend architecture.
 
+### Online Coding Platform
+
+A browser-based dev environment where developers connect their GitHub account, enter a repository, and get a live visual graph of branch activity and commit history. Supports in-browser vibe coding — write, preview, and push changes without leaving the platform. Built for speed and developer focus.
+
 ### 👥 HR Management System
 
 Enterprise-focused employee management platform featuring attendance tracking, employee records, role-based access control, and administrative workflows.
@@ -56,10 +60,3 @@ Enterprise-focused employee management platform featuring attendance tracking, e
 
 Comprehensive transport and logistics management platform for vehicle operations, route tracking, shipment monitoring, and operational reporting.
 
-### 🏢 Whitespace Consultancy Website
-
-Professional business website designed and developed to establish a strong digital presence and showcase consulting services.
-
-### ⛳ Sodcum Family Golf Website
-
-Custom-developed business website providing a modern user experience and streamlined information management.
