@@ -5,7 +5,7 @@ Full Stack Developer | AI Automation Engineer | CRM Systems Builder
 I am a Full Stack Developer passionate about building scalable web applications, intelligent automation systems, and modern CRM solutions. My expertise lies in creating robust backend architectures, responsive frontend experiences, and AI-powered workflows that help businesses streamline operations and improve efficiency.
 
 ---
-## 🚀 Technical Stack
+## Technical Stack
 
 ### Frontend Development
 
@@ -42,9 +42,9 @@ I am a Full Stack Developer passionate about building scalable web applications,
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
-### 🎨 PIXORA
+### PIXORA
 
 AI-powered SaaS platform for image generation featuring modern authentication, cloud storage, subscription workflows, and scalable backend architecture.
 
@@ -52,11 +52,11 @@ AI-powered SaaS platform for image generation featuring modern authentication, c
 
 A browser-based dev environment where developers connect their GitHub account, enter a repository, and get a live visual graph of branch activity and commit history. Supports in-browser vibe coding — write, preview, and push changes without leaving the platform. Built for speed and developer focus.
 
-### 👥 HR Management System
+### HR Management System
 
 Enterprise-focused employee management platform featuring attendance tracking, employee records, role-based access control, and administrative workflows.
 
-### 🚚 REL Transport Management System
+###  REL Transport Management System
 
 Comprehensive transport and logistics management platform for vehicle operations, route tracking, shipment monitoring, and operational reporting.
 
