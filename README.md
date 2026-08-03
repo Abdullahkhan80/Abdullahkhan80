@@ -1,4 +1,4 @@
-# Hi there, I'm Abdullah Khan 👋
+# Hi there, I'm Abdullah  👋
 
 Full Stack Developer | AI Automation Engineer | CRM Systems Builder
 
